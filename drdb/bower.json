@@ -1,0 +1,20 @@
+{
+  "name": "drdb",
+  "version": "0.0.0",
+  "homepage": "https://github.com/geekarist/droidible",
+  "authors": [
+    "Christophe <christophe.pele@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "edible": "https://github.com/geekarist/edible.git#prod"
+  }
+}
